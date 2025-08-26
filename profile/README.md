@@ -7,7 +7,7 @@ This organization contains all materials for the course Causal Machine Learning.
 
 * [**Syllabus**](https://github.com/causalml-fall25/syllabus)
 * [**Readings**](https://github.com/causalml-fall25/readings) (Note that this is restricted to enrolled students)
-* [**Lectures**](https://github.com/causalml-fall25/lectures)
+* [**Lectures**](https://github.com/causalml-fall25/lecture-slides)
 * [**Presentations**](https://github.com/causalml-fall25/presentations) Students will upload their presentations in this repository in pdf format.
 
 Demos and projects will be shared by students in individual repositories.
